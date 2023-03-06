@@ -14,20 +14,20 @@ You work for a consulting company helping a hospital group better understand pat
 
 ## Information in the Dataset
 
-"age" - age bracket of the patient
-"time_in_hospital" - days (from 1 to 14)
-"n_procedures" - number of procedures performed during the hospital stay
-"n_lab_procedures" - number of laboratory procedures performed during the hospital stay
-"n_medications" - number of medications administered during the hospital stay
-"n_outpatient" - number of outpatient visits in the year before a hospital stay
-"n_inpatient" - number of inpatient visits in the year before the hospital stay
-"n_emergency" - number of visits to the emergency room in the year before the hospital stay
-"medical_specialty" - the specialty of the admitting physician
-"diag_1" - primary diagnosis (Circulatory, Respiratory, Digestive, etc.)
-"diag_2" - secondary diagnosis
-"diag_3" - additional secondary diagnosis
-"glucose_test" - whether the glucose serum came out as high (> 200), normal, or not performed
-"A1Ctest" - whether the A1C level of the patient came out as high (> 7%), normal, or not performed
-"change" - whether there was a change in the diabetes medication ('yes' or 'no')
-"diabetes_med" - whether a diabetes medication was prescribed ('yes' or 'no')
-"readmitted" - if the patient was readmitted at the hospital ('yes' or 'no')
+1. "age" - age bracket of the patient
+2. "time_in_hospital" - days (from 1 to 14)
+3. "n_procedures" - number of procedures performed during the hospital stay
+4. "n_lab_procedures" - number of laboratory procedures performed during the hospital stay
+5. "n_medications" - number of medications administered during the hospital stay
+6. "n_outpatient" - number of outpatient visits in the year before a hospital stay
+7. "n_inpatient" - number of inpatient visits in the year before the hospital stay
+8. "n_emergency" - number of visits to the emergency room in the year before the hospital stay
+9. "medical_specialty" - the specialty of the admitting physician
+10. "diag_1" - primary diagnosis (Circulatory, Respiratory, Digestive, etc.)
+11. "diag_2" - secondary diagnosis
+12. "diag_3" - additional secondary diagnosis
+13.  "glucose_test" - whether the glucose serum came out as high (> 200), normal, or not performed
+14. "A1Ctest" - whether the A1C level of the patient came out as high (> 7%), normal, or not performed
+15. "change" - whether there was a change in the diabetes medication ('yes' or 'no')
+16. "diabetes_med" - whether a diabetes medication was prescribed ('yes' or 'no')
+17. "readmitted" - if the patient was readmitted at the hospital ('yes' or 'no')
